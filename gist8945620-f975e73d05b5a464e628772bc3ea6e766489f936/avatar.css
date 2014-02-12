@@ -45,13 +45,14 @@ SVG Presentation Attributes:
     fill: darkblue;
 }
 
-.arm {fill: green;
+.arm {fill: chartreuse;
 }
 
 .shoe {fill: chocolate;
 }
 
 .left {
+    
 }
 
 .right {
@@ -70,10 +71,11 @@ SVG Presentation Attributes:
 #neck {
 }
 
-#shirt {fill: yellow;
+#shirt {fill: navy;
 }
 
 #cape {fill: red;
+    stroke-dasharray: 2, 2;
 }
 
 #mouth {fill: crimson;
