@@ -42,5 +42,5 @@ setInterval(function () {
         vy = -vy;
     }
     */
-}, 20);
+}, 2);
      
