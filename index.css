@@ -7,7 +7,8 @@ body {
     margin-top: 0 !important;
     padding-top:0 !important;
 }
-.jumbotron jumbotron-fluid {
+.title {
+    background-color: #13c1dc;
     margin-bottom: 0 !important;
     padding-bottom: 0 !important;
 }
