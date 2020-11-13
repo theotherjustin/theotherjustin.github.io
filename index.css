@@ -1,26 +1,26 @@
 body {
     font-family: 'Ubuntu', sans-serif;
     margin: 0;
-    background-color: #078796;
+    background-color: #008593;
 }
 #title {
     text-align: center;
-    background-color: #078796;
+    background-color: #008593;
     margin: 0;
 }
 #edu {
     text-align: left;
     color: #F9F9F9;
-    background-color: #202020;
+    background-color: #3c3c3c;
 }
 #proj {
     text-align: left;
     margin: 0;
-    background-color: #9d9d9d;
+    background-color: #f0f0f0;
 }
 #proj2 {
     text-align: left;
     padding-bottom: 50px;
-    background-color: #9d9d9d;
+    background-color: #3c3c3c;
 }
 
