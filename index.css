@@ -1,6 +1,13 @@
 body {
-    background-color: slategray;
+    background-color: #9d9d9d;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
 }
 .container-fluid {
     margin-top: 0 !important;
+    padding-top:0 !important;
+}
+.jumbotron jumbotron-fluid {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
 }
