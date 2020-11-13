@@ -2,13 +2,13 @@ body {
     font-family: 'Ubuntu', sans-serif;
     margin: 0;
 }
-.title {
+#title {
     text-align:center;
     background-color: #13c1dc;
     margin-bottom: 0 !important;
     padding-bottom: 0 !important;
 }
-.edu {
+#edu {
     text-align: left;
     margin-top: 0 !important;
     padding-top: 0 !important;
