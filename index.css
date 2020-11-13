@@ -1,14 +1,18 @@
 body {
-    background-color: #9d9d9d;
     font-family: 'Ubuntu', sans-serif;
-    text-align: center;
-}
-.container-fluid {
-    margin-top: 0 !important;
-    padding-top:0 !important;
+    margin: 0;
 }
 .title {
+    text-align:center;
     background-color: #13c1dc;
     margin-bottom: 0 !important;
     padding-bottom: 0 !important;
 }
+.edu {
+    text-align: left;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+    color: #F9F9F9; 
+    background-color:#202020;
+}
+
