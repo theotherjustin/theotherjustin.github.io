@@ -1,31 +1,37 @@
 body {
-    
+    font-family: 'Lato', sans-serif;
     margin: 0;
     background-color: #000000;
 }
 #title {
     font-family: 'Dosis', sans-serif;
+    font-weight: bold;
     text-align: center;
-    background-color: #000000;
+    background-color: #424242;
     margin: 0;
 }
 #edu {
     text-align: left;
-    color: #F9F9F9;
+    color: #000000;
     padding-bottom: 50px;
     padding-top: 50px;
-    background-color: #0000000;
+    background-color: #FFF3E0;
 }
 #proj {
     text-align: left;
     color: #F9F9F9;
     padding-bottom: 50px;
-    background-color: #000000;
+    background-color: #424242;
 }
 #proj2 {
     text-align: left;
-    color: #F9F9F9;
-    padding-bottom: 50px;
-    background-color: #000000;
+    color: #000000;    
+    background-color: #FFF3E0;
 }
 
+.footer{
+    text-align: center;
+    background-color: #FFF3E0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
