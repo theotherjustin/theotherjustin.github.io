@@ -18,15 +18,16 @@ body {
     background-color: #FFF3E0;
 }
 #proj {
-    text-align: left;
+    text-align: center;
     color: #F9F9F9;
     padding-bottom: 50px;
     background-color: #424242;
 }
 #proj2 {
-    text-align: left;
-    color: #000000;    
-    background-color: #FFF3E0;
+    text-align: center;
+    color: #F9F9F9;    
+    background-color: #424242;
+    padding-bottom: 50px;
 }
 
 .footer{
