@@ -42,9 +42,9 @@ body {
     padding-bottom: 10px;
 }
 .carousel-control-prev {
-    left: -30px; /* Adjust this value to move the button closer */
+    width: 40%;
 }
 
 .carousel-control-next {
-    right: -30px; /* Adjust this value to move the button closer */
+    width: 40%;
 }
