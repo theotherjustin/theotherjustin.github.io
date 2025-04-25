@@ -2,42 +2,42 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #0a0a0a;
-    color: #ffffff;
+    background-color: #052F5F;
+    color: #D5C67A;
     line-height: 1.6;
 }
 #title {
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
     text-align: center;
-    background-color: #0a0a0a;
-    color: #00FFFF;
+    background-color: #052F5F;
+    color: #06A77D;
     margin: 0;
 }
 #edu {
     text-align: center;
     padding-bottom: 50px;
     padding-top: 50px;
-    background-color: #0a0a0a;
-    color: #ffffff;
+    background-color: #052F5F;
+    color: #D5C67A;
 
 }
 #proj {
     text-align: center;
     padding-bottom: 50px;
-    background-color: #0a0a0a;
-    color: #ffffff;
+    background-color: #052F5F;
+    color: #D5C67A;
 }
 #proj2 {
     text-align: center;
-    background-color: #0a0a0a;
-    color: #ffffff;
+    background-color: #052F5F;
+    color: #D5C67A;
     padding-bottom: 50px;
 }
 
 .footer{
     text-align: center;
-    background-color: #FFF3E0;
+    background-color: #005377;
     padding-top: 10px;
     padding-bottom: 10px;
 }
